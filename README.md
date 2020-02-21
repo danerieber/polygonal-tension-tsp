@@ -17,5 +17,9 @@ Amount of 'tension' experienced if one were to stretch an edge inward to a verte
 #### Improved Score
 Better results were seen when rasing the denominator in the calculation to various powers. This would give shorter edge lengths more weight over longer edge lengths.
 
+### Step-through
+![Image](polytension-step-through.PNG)
+In green, the true shortest path is shown. In red, the progress of polytension is shown.
+
 ## Dependencies
 matplotlib
